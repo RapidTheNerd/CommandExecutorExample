@@ -1,0 +1,6 @@
+name: CommandExecutorExample
+version: ${project.version}
+main: me.rtn.cee.Main
+commands:
+  clear:
+    description: clears players inventory
